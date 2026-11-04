@@ -1,5 +1,5 @@
 {
-  "about": "The frame this website takes from legacy Sharing History's virtual exhibition Migrations (exhibitions/AWE/, exhibition 8), each file as legacy serves it, byte for byte: the pages' icons and strips, and the three pictures behind the exhibition's title (its styles' home_image, intro_image and exh_image). tests/assets.test.js checks every file against its hash.",
+  "about": "The frame this website takes from legacy Sharing History's virtual exhibition Migrations (exhibitions/AWE/, exhibition 8), each file as legacy serves it, byte for byte: the pages' icons and strips, the three pictures behind the exhibition's title (its styles' home_image, intro_image and exh_image) and the partners' logos on the home page (logos/). tests/assets.test.js checks every file against its hash.",
   "files": {
     "theme/assets/legacy/arrow_black_down.gif": {
       "source": "https://sharinghistory.museumwnf.org/exhibitions/AWE/images/arrow_black_down.gif",
@@ -44,6 +44,14 @@
     "theme/assets/legacy/intro_bg.jpg": {
       "source": "https://images.museumwnf.org/full/sharing_history/sh_exhibitions/exhibitions/AWE/8/intro_bg.jpg",
       "sha256": "ec215d138eaca9b1885c2e4f1244849b92ae618c503cbe12c39fcbbb45ae0b19"
+    },
+    "theme/assets/legacy/logos/item_logo_18.png": {
+      "source": "https://images.museumwnf.org/full/sharing_history/sh_exhibitions/exhibitions/AWE/8/item_logo_18.png",
+      "sha256": "59fbe36bd9817df0b05965bca905a872cf2d3d74f4b2c625152c027566e0eeb7"
+    },
+    "theme/assets/legacy/logos/item_logo_28.png": {
+      "source": "https://images.museumwnf.org/full/sharing_history/sh_exhibitions/exhibitions/AWE/8/item_logo_28.png",
+      "sha256": "0dca8dc1fb63a6db335d4283c8237ddde8617d67d6adc6fa8f5065e5f53f9c22"
     },
     "theme/assets/legacy/magnify.png": {
       "source": "https://sharinghistory.museumwnf.org/exhibitions/AWE/images/magnify.png",
